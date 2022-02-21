@@ -23,3 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<img src=![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/70291046/155033734-2468d985-b3e9-47c4-a352-8d740703c632.gif)
+
+
+<img src= "ezgif.com-gif-maker (1) copy.gif"><br>
